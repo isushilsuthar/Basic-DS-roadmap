@@ -10,7 +10,10 @@ Hey! I'm an **Electrical Engineering graduate from IIT BHU Varanasi**.
 - ❌ Couldn't crack a job on campus.  
 - 📉 Faced **250+ rejections**.  
 - ✅ Cracked my **first job off-campus** with a package **better than my college's base average**.  
-- 🧠 3 months later, I cracked another — **Data Scientist 1 @ Mastercard**.  
+- 🧠 3 months later, I cracked another — **Data Scientist 1 @ Mastercard**.
+- I created this repo in response to the DMs I have been getting.
+  > ⚠️ This is not an exhaustive list of everything in ML or the complete set of resources you'll ever need — it's a curated starting point.
+
 
 ---
 
