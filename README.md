@@ -53,7 +53,7 @@ A **detailed Notion version** will soon launch with:
 - 🎯 Personalized growth roadmap  
 
 📌 **Stay tuned!**  
-📎 [Link to Repo goes here]
+📎 []
 
 ---
 
