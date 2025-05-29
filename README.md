@@ -4,8 +4,9 @@
 ---
 
 ## 👋 Who Am I?
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/isushilsuthar)
 
-Hey! I'm an **Electrical Engineering graduate from IIT BHU Varanasi**.
+Hey! I'm an **Electrical Engineering graduate from IIT BHU Varanasi**. 
 
 - ❌ Couldn't crack a job on campus.  
 - 📉 Faced **250+ rejections**.  
