@@ -30,6 +30,7 @@ This repo is for:
 
 Each folder is crafted with one goal — **help you crack your DS job**.
 
+"""
 📂 Basic-DS-roadmap/
 │
 ├── 📘 1_Roadmap/              → What to learn & in what order
@@ -37,8 +38,7 @@ Each folder is crafted with one goal — **help you crack your DS job**.
 ├── 🧪 3_Projects/             → Clean, simple projects to showcase
 ├── 🔗 4_Free_Resources/       → Best playlists, blogs, tools
 └── ❓ 5_FAQs/                  → Answers to most common DMs I get
-
-
+"""
 
 ---
 
