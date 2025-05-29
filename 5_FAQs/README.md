@@ -68,8 +68,20 @@ You can also follow me on [LinkedIn](#) to stay updated, or DM me with the subje
 <details>
 <summary><strong>🧩 How much DSA is important?</strong></summary>
 
-It’s **important** for clearing online assessments (OAs) and strengthens your **problem-solving mindset**.  
-Most companies ask **easy to medium level questions (LeetCode)** during OAs and sometimes during tech rounds.
+✅ **Very important** — especially for clearing Online Assessments (OAs) and coding rounds in companies like **HiLabs, OLA, Infoedge, Mastercard, Amazon, Flipkart and many more**.
+
+- It builds **problem-solving skills** which are useful even in ML/DS roles.
+- **Easy to medium-level LeetCode** questions are commonly asked.
+- In my **Mastercard interview**, I was specifically asked a **Dynamic Programming** question — so don’t skip topics like:
+  - Arrays & Strings
+  - Hashmaps & Sets
+  - Sliding Window
+  - Two Pointers
+  - Binary Search
+  - Recursion + DP
+  - Graphs & Trees
+
+📌 Even if you're aiming for Data roles, strong DSA is a great **signal to interviewers** that you can think and code under pressure.
 
 </details>
 
