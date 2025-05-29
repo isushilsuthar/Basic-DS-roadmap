@@ -20,7 +20,7 @@ I know how painful and confusing the **off-campus Data Science journey** can be.
 
 This repo is for:
 
-- 🎓 Students from any **non-CS** or **tier 1/2/3 colleges**  
+- 🎓 Students from any **CS/non-CS** or **tier 1/2/3 colleges**  
 - 💼 Freshers struggling with **no referrals** and **no roadmap**  
 - 🧠 Anyone trying to break into **AI / Data Science** in 2025+  
 
