@@ -4,11 +4,6 @@ Welcome! This folder contains a copy of my resume and a few tips based on mistak
 
 ---
 
-## 🔗 Here’s the link to my resume:
-[Click to view/download](./Resume.pdf)
-
----
-
 ## ❌ Mistakes I Made While Creating Mine:
 
 - **❌ Wrote long paragraphs instead of using crisp bullet points.**  
