@@ -68,11 +68,23 @@ A cold email landed me **my first interview and my first job.**
 
 ---
 
-💡 **Here’s a good ChatGPT prompt to draft a cold email:**
+### 📩 Sample Cold Email
 
-> “Draft a professional and concise cold email for a recent Data Science graduate seeking internship/full-time opportunities. Highlight project experience, eagerness to contribute, and politely ask for guidance or a referral. Keep the tone humble and clear.”
+Subject: Aspiring Data Scientist | Seeking Guidance & Opportunities
 
-Try personalizing it once generated!
+Hi [Recipient’s Name],
+
+I hope you're doing well! My name is [Your Name], and I'm currently exploring roles in data science and machine learning. I’ve been following your work at [Company Name], and I truly admire the impact you're making in [mention something specific if possible].
+
+I’ve worked on projects involving [briefly name 1–2 relevant projects/skills], and I’m actively looking for ways to contribute and grow in the field. If there are any opportunities at [Company Name] — internship, full-time, or even just a quick call — I’d be truly grateful for a chance.
+
+Thank you for your time, and please let me know if I can share my resume.
+
+Warm regards,
+[Your Name]
+[LinkedIn URL] | [Portfolio/GitHub if any]
+
+Try personalizing it !
 
 </details>
 
