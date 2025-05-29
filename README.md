@@ -1,5 +1,5 @@
 # 🚀 Basic Data Science Roadmap  
-*A practical guide to crack your first job as a Data Scientist (off-campus)*  
+*A practical guide to crack your first job as a Data Scientist*  
 
 ---
 
