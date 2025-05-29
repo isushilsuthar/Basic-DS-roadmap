@@ -5,6 +5,67 @@ A lot of you ask me the same things again and again — so here’s a quick FAQ 
 ---
 
 <details>
+<summary><strong>📚 What kind of preparation should I do?</strong></summary>
+
+- Get your **ML/DL basics** clear.
+- Be able to **explain your projects well**.
+- **Mock interviews** are a game-changer — they show you your gaps and **build confidence**, which is key during real interviews.
+
+</details>
+
+---
+
+## 🧪 Mock Interviews – Train Before You Play
+
+> “You don’t rise to the occasion. You fall to the level of your preparation.”
+
+**Want to stop freezing in real interviews? Do a mock.**
+
+---
+
+<details>
+<summary><strong>⚡ Why should you take a mock interview?</strong></summary>
+
+- ✅ Find your **blind spots** — things you don’t know you don’t know  
+- ✅ Get **real-time feedback** on your answers and communication  
+- ✅ Build **confidence** and reduce anxiety  
+- ✅ Learn to structure responses under pressure  
+- ✅ Practice the kind of **questions real interviewers ask**
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎤 What do I cover in my mock interviews?</strong></summary>
+
+Depending on your role and level, I offer:
+
+- 🚀 **Behavioral & HR round practice**
+- 🧠 **Tech deep-dives** (ML/DL/LLMs, SQL, Python)
+- 💻 **Project walkthroughs** — how to explain them well  
+- 📈 **Problem-solving** and basic case-style Qs
+- 🎯 Live **feedback + improvement tips**
+
+</details>
+
+---
+
+<details>
+<summary><strong>📅 How do I book a session?</strong></summary>
+
+I'll soon be launching a booking link where you can pick a slot and book a mock directly with me!
+
+👉 **[Booking link coming soon – stay tuned!]**
+
+You can also follow me on [LinkedIn](#) to stay updated, or DM me with the subject line:  
+**"Mock Interview – Interested"**
+
+</details>
+
+---
+
+<details>
 <summary><strong>🧩 How much DSA is important?</strong></summary>
 
 It’s **important** for clearing online assessments (OAs) and strengthens your **problem-solving mindset**.  
@@ -30,17 +91,6 @@ SQL is often asked in **OAs** or even live in interviews for data-related roles.
 - In-depth questions about **anything on your resume** — especially projects or tools.
 - **Breadth of topics** across DS/ML/LLMs, depending on the interviewer.
 - Topics I’ve mentioned in the [Roadmap](../1_Roadmap/README.md) are a good reference.
-
-</details>
-
----
-
-<details>
-<summary><strong>📚 What kind of preparation should I do?</strong></summary>
-
-- Get your **ML/DL basics** clear.
-- Be able to **explain your projects well**.
-- **Mock interviews** are a game-changer — they show you your gaps and **build confidence**, which is key during real interviews.
 
 </details>
 
