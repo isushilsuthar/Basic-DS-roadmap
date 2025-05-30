@@ -54,9 +54,8 @@ Depending on your role and level, I offer:
 <details>
 <summary><strong>📅 How do I book a session?</strong></summary>
 
-I'll soon be launching a booking link where you can pick a slot and book a mock directly with me!
-
-👉 **[Booking link coming soon – stay tuned!]**
+Book a 1:1 mock session where I’ll simulate real interview scenarios, assess your performance, and offer structured feedback.  
+👉 [Book a Mock Interview (45 mins) →](https://topmate.io/sushilsuthar/1572789?utm_source=public_profile&utm_campaign=sushilsuthar)
 
 You can also follow me on [LinkedIn](#) to stay updated, or DM me with the subject line:  
 **"Mock Interview – Interested"**
@@ -160,6 +159,18 @@ It may **not be directly asked**, but it’s very helpful in **understanding how
 If you want to go deep or pursue research roles — it’s a must.
 
 </details>
+
+---
+
+### 🔸 Can I just ask you a question without booking a call?
+Yes! You can ask me a question and I’ll personally reply within **3 days**.  
+👉 [Ask Me a Question](https://topmate.io/sushilsuthar/1572800/pay?utm_source=public_profile&utm_campaign=sushilsuthar)
+
+---
+
+### 🔸 I need a faster response. Is that possible?
+Yes! Use this for **priority 1-day replies**:  
+👉 [Priority Reply](https://topmate.io/sushilsuthar/1572802/pay?utm_source=public_profile&utm_campaign=sushilsuthar)
 
 ---
 
