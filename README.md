@@ -15,6 +15,15 @@ Hey! I'm an **Electrical Engineering graduate from IIT BHU Varanasi**.
 - I created this repo in response to the DMs I have been getting.
   > ⚠️ This is not an exhaustive list of everything in ML or the complete set of resources you'll ever need — it's a curated starting point.
 
+---
+
+🧠 **Mock Interviews** to simulate real pressure and questions  
+📝 **Resume Reviews** to stand out  
+🙋 **Ask Me Anything** for quick expert advice  
+⚡ **Priority Replies** within 24 hours  
+
+🔗 [Explore All Services on Topmate →](https://topmate.io/sushilsuthar)
+
 
 ---
 
@@ -56,15 +65,6 @@ A **detailed Notion version** will soon launch with:
 - 🎯 Personalized growth roadmap  
 
 📌 **Stay tuned!**  
-
----
-
-🧠 **Mock Interviews** to simulate real pressure and questions  
-📝 **Resume Reviews** to stand out  
-🙋 **Ask Me Anything** for quick expert advice  
-⚡ **Priority Replies** within 24 hours  
-
-🔗 [Explore All Services on Topmate →](https://topmate.io/sushilsuthar)
 
 ---
 
