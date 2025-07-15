@@ -5,8 +5,7 @@
 
 ## 👋 Who Am I?
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/isushilsuthar)
-## 🌟 Book a 1:1 Call  
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%20Call-blueviolet?style=for-the-badge&logo=meetup)](https://topmate.io/sushilsuthar)
+
 
 Hey! I'm an **Electrical Engineering graduate from IIT BHU Varanasi**. 
 
@@ -18,6 +17,8 @@ Hey! I'm an **Electrical Engineering graduate from IIT BHU Varanasi**.
   > ⚠️ This is not an exhaustive list of everything in ML or the complete set of resources you'll ever need — it's a curated starting point.
 
 ---
+## 🌟 Book a 1:1 Call  
+[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%20Call-blueviolet?style=for-the-badge&logo=meetup)](https://topmate.io/sushilsuthar)
 
 🧠 **Mock Interviews** to simulate real pressure and questions  
 📝 **Resume Reviews** to stand out  
